@@ -11,7 +11,7 @@ const demoRoutes: AdminRouterItem[] = [
     element: <DemoPage />,
     meta: {
       label: "Demo",
-      title: "Demo",
+      title: "Productor",
       key: "/demo",
       icon: <DesktopOutlined />,
     },
