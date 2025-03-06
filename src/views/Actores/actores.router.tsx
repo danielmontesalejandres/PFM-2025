@@ -10,9 +10,9 @@ const actoresRouter: AdminRouterItem[] = [
     path: 'Actores',
     element: <ActoresPage />,
     meta: {
-      label: "Demo",
+      label: "Producer",
       title: "Productor",
-      key: "/Actores",
+      key: "/producer",
       icon: <DesktopOutlined />,
     },
     children: [{
